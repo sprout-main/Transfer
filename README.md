@@ -212,7 +212,7 @@ It increments to <code>T1</code> :)
 ## 🗺️ Planned Changes
 
 - [ ] add an option to change the port in the settings
-- [x] fallback to hotspot IP in the display.
+- [ ] fallback to hotspot IP in the display.
 - [x] automatically update the IP when Wifi changes
 
 ---
